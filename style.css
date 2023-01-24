@@ -4,6 +4,10 @@ body {
   line-height: 1;
 }
 
+.jumbotron {
+  background-color: #95d1e7 !important;
+}
+
 textarea {
   background: transparent;
   border: none;
