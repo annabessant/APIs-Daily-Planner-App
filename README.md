@@ -11,9 +11,9 @@ saves the event in local storage when the save button is clicked in that timeblo
 
 ## Links
 
-Repo URL: https://github.com/annabessant/Daily-Planner-App 
+Repo URL: https://github.com/annabessant/APIs-Daily-Planner-App
 
-Website URL: https://annabessant.github.io/Daily-Planner-App/ 
+Website URL: https://annabessant.github.io/APIs-Daily-Planner-App/
 
 ## Screenshot
 ![screenshot of calendar app, day-planner](./Screenshot_App.jpeg "Screenshot of the App")
